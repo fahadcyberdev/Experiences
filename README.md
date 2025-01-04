@@ -32,13 +32,13 @@ Ensure your system has the following installed:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/FahadCyberDev/image-slider.git
+   https://github.com/fahadcyberdev/Experiences.git
    ```
 
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd image-slider
+   cd Experiences
    ```
 
 3. **Install Dependencies**:
